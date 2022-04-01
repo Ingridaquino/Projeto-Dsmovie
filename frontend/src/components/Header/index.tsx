@@ -1,6 +1,6 @@
 import { GoMarkGithub } from "react-icons/go";
 
-import "./styles.css"
+import "./styles.css";
 
 
 function Header () {

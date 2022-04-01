@@ -1,0 +1,31 @@
+.dsmovie-card-container {
+    max-width: 480px;
+    margin: 48px auto;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.dsmovie-movie-card-image {
+    width: 70%;
+}
+
+.dsmovie-card-bottom-container {
+    width: calc(100% - 20px);
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+.dsmovie-btn {
+    width: 60%;
+    border: none;
+}
+
+
+.dsmovie-bt:hover { 
+    filter: brightness(.8);
+}
