@@ -1,7 +1,14 @@
 package com.devsuperior.dsmovie.entities;
 
+import javax.persistence.EmbeddedId;
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name= "tb_score")
 public class Score {
 	
+	@EmbeddedId
 	private ScorePk id = new ScorePk();
 	private Double value;
 	
