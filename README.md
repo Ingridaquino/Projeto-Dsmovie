@@ -11,5 +11,5 @@ DsMovie é uma aplicação Full Stck web e mobile, que consiste em uma página w
 ### Modelo conceitual 
 
 <div align="center"> 
-    <img src="../../public/assets/modelo.png">
+    <img src="../_assets/modelo.png">
 </div>
