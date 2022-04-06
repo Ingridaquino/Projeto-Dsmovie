@@ -10,6 +10,4 @@ DsMovie é uma aplicação Full Stck web e mobile, que consiste em uma página w
 
 ### Modelo conceitual 
 
-<div align="center"> 
-    <img src="../_assets/modelo.png">
-</div>
+![Modelo Conceitual](https://github.com/Ingridaquino/Projeto-Dsmovie/blob/main/_assets/modelo.png)
