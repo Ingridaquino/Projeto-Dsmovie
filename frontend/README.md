@@ -1,4 +1,4 @@
-#🎬 DsMovie
+# 🎬 DsMovie
 
 - Aplicação de avaliação de filmes desenvolvida durante a Semana Spring React.
 
@@ -11,5 +11,5 @@ DsMovie é uma aplicação Full Stck web e mobile, que consiste em uma página w
 ### Modelo conceitual 
 
 <div align="center"> 
-    <img src="../public/assets/modelo.png">
+    <img src="../../public/assets/modelo.png">
 </div>
