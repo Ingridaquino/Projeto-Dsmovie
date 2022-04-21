@@ -13,7 +13,7 @@ function MovieCard( {movie} : Props) {
         <div className="dsmovie-card-container">
             <img src={movie.image} alt={movie.title} className="dsmovie-movie-card-image" />
             <div className="dsmovie-card-bottom-container">
-                <MovieScore />
+                <MovieScore count={movie.count} score={movie.score} />
 
                 <Link to={`/form/${movie.id}`}>
                     <div className="btn btn-primary dsmovie-btn">Avaliar</div>
